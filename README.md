@@ -12,9 +12,10 @@ How gateway, services, integrations, and the shared platform connect when repos 
 
 ## Services
 
-| Service                                                                         | Documentation                                                |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Service                                                                         | Documentation                                                  |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [go-web-platform](https://github.com/go-web-services/go-web-platform)           | [docs/go-web-platform.md](docs/go-web-platform.md)           |
+| [go-web-infrastructure](https://github.com/go-web-services/go-web-infrastructure) | [docs/go-web-infrastructure.md](docs/go-web-infrastructure.md) |
 | [go-service-user](https://github.com/go-web-services/go-service-user)           | [docs/go-service-user.md](docs/go-service-user.md)           |
 | [go-integration-email](https://github.com/go-web-services/go-integration-email) | [docs/go-integration-email.md](docs/go-integration-email.md) |
 | [go-service-event](https://github.com/go-web-services/go-service-event)         | [docs/go-service-event.md](docs/go-service-event.md)         |
