@@ -1,4 +1,6 @@
-# Go Web Services — documentation
+Visit main page: [https://github.com/go-web-services](https://github.com/go-web-services)
+
+# Go Web Services - Documentation
 
 Central place for documentation spanning multiple Go web services in this organization. Each service keeps its own source repository; this repo holds cross-cutting notes and links.
 
