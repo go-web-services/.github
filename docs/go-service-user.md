@@ -2,7 +2,6 @@
 
 **GitHub:** `github.com/go-web-services/go-service-user`
 **Module:** `github.com/go-web-services/go-service-user`
-**Local path:** `/Users/lomank/Workspace/go-web/service/go-service-user/`
 
 ## Role
 

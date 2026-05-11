@@ -2,7 +2,6 @@
 
 **GitHub:** `github.com/go-web-services/go-integration-minio`
 **Module:** `github.com/go-web-services/go-integration-minio`
-**Local path:** `/Users/lomank/Workspace/go-web/integration/go-integration-minio/`
 
 ## Role
 

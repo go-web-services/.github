@@ -2,7 +2,6 @@
 
 **GitHub:** `github.com/go-web-services/go-integration-email`
 **Module:** `github.com/go-web-services/go-integration-email`
-**Local path:** `/Users/lomank/Workspace/go-web/integration/go-integration-email/`
 
 ## Role
 

@@ -2,7 +2,6 @@
 
 **GitHub:** `github.com/go-web-services/go-web-platform`
 **Module:** `github.com/go-web-services/go-web-platform`
-**Local path:** `/Users/lomank/Workspace/go-web/shared/go-web-platform/`
 
 ## Role
 

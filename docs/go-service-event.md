@@ -2,7 +2,6 @@
 
 **GitHub:** `github.com/go-web-services/go-service-event`
 **Module:** `github.com/go-web-services/go-service-event`
-**Local path:** `/Users/lomank/Workspace/go-web/service/go-service-event/`
 
 ## Role
 

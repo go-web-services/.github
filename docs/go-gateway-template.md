@@ -2,7 +2,6 @@
 
 **GitHub:** `github.com/go-web-services/go-gateway-template`
 **Module:** `github.com/go-web-services/go-gateway-template`
-**Local path:** `/Users/lomank/Workspace/go-web/gateway/go-gateway-template/`
 
 ## Role
 
